@@ -6,3 +6,5 @@ I am not removing data, I am deleting data
 some batch data is added
 
 I am a data engineer and a very very good one
+
+bug fixing development
